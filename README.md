@@ -1,7 +1,6 @@
 # 👋  Hello everyone, my name is Esteban Veraart and I am a frontend developer from Belgium.
  
-I'm currently 24 years old and I discovered development in August 2021. I'm currently in intensive training at "BeCode".
-I am looking for an internship as part of my training, I am motivated and I want to discover/learn new things.
+I'm currently 24 years old and I discovered development in August 2021. I am currently doing an internship at Web World srl for a period of 2 months.
  
  
 
